@@ -138,6 +138,4 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Se quiser, posso deixar esse README ainda mais forte pra recrutadores (com badges, GIF do sistema rodando e versão em inglês).
-
 [1]: https://www.dio.me/articles/desafio-sistema-bancario-otimizado-com-python?utm_source=chatgpt.com "Desafio Sistema Bancário Otimizado Com Python | Valdemar Taborda | GitHub | Git | Python | DIO"
